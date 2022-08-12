@@ -33,18 +33,20 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/datavinny/datavinny/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="" alt="java"  width="100" hight="50">
-<img src="" alt="AI" width="90" hight="50">
-<img src="" alt="bash" width="100" hight="50">
-<img src="" alt="datascience" width="180" hight="50">
+<img src="svg/dev/languages/python.svg" alt="python" width="180" hight="50">
+ <img src="svg/dev/languages/js.svg" alt="js" width="180" hight="50">
+ <img src="svg/dev/languages/html.svg" alt="html" width="180" hight="50">
+<img src="svg/dev/languages/css3.svg" alt="css3" width="180" hight="50">
 </br>
-<img src="" alt="google_cloud_platform" width="270" hight="50">
-<img src="" alt="visualstudio_code" width="240" hight="50">
+<img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap"  width="100" hight="50">
+<img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" width="90" hight="50">
+<img src="svg/dev/frameworks/react.svg" alt="react" width="100" hight="50">
 </br>
-<img src="" alt="pc" width="100" hight="50">
-<img src="" alt="edge" width="100" hight="50">
-<img src="" alt="playstation" width="150" hight="50">
+<img src="svg/dev/services/npm.svg" alt="npm" width="240" hight="50">
+<img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" width="240" hight="50">
+<img src="svg/dev/tools/docker.svg" alt="docker" width="240" hight="50">
+</br>
+
 </p>
 
 </br>
