@@ -19,7 +19,15 @@
 - ✨ Ler Light Novels e Mangas
 - ✨ Acadêmia
 
-</br></br></br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -56,8 +64,6 @@ Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvi
 </a>
 <a href="https://www.linkedin.com/in/davifreitass/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
-
-</br></br></br>
 
 </a>
 <a href="https://steamcommunity.com/id/acerplayers/">
