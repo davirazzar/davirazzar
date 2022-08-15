@@ -1,31 +1,26 @@
 # Olá 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/datavinny/datavinny/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/gifs/208593.gif">
 </div>
 
-</br>
-</br>
-</br>
+</br></br></br>
+# Sobre mim 💬 :
 
-# About ME 💬 :
+### - Sou um desenvolvedor web full stack de 20 anos do Brasil.
 
-### - I'm 20 years Full Stack Web Development Enthusiast from Brazil.
+<img hight="400" width="500" alt="GIF" align="right" src="assets/gifs/1936.gif">
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/datavinny/datavinny/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Backend
-- ✨ Computer science
+### - Estudando :
+- ✨ Desenvolvimento Back-end
+- ✨ Ciência da Computação
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Reading Light Novels and Mangas
-- ✨ Gym
+- ✨ Games
+- ✨ Ler Light Novels e Mangas
+- ✨ Acadêmia
 
-</br>
-</br>
-</br>
+</br></br></br>
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -49,44 +44,36 @@
 
 </p>
 
-</br>
-</br>
-</br>
-
-# Contact Me :
+</br></br></br>
+# Contato :
 <p>
 </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/datavinny/datavinny/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="assets/gifs/93195.gif">
 
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvida ou apenas para sair e conversar ou quiser jogar juntos, é só me mandar um ping 😉.
 
 <a href="mailto:df828316@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/davifreitass/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
+
+</br></br></br>
+
 </a>
 <a href="https://steamcommunity.com/id/acerplayers/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
 </a>
  </p>
  
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+</br></br></br>
+</br></br></br>
 </br>
 
 <p align="center" >  
   <a href="https://github.com/datavinny/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
