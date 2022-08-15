@@ -4,7 +4,6 @@
 <img hight="300" width="700" alt="GIF" align="center" src="assets/gifs/208593.gif">
 </div>
 
-</br></br></br>
 # Sobre mim 💬 :
 
 ### - Sou um desenvolvedor web full stack de 20 anos do Brasil.
@@ -19,8 +18,6 @@
 - ✨ Games
 - ✨ Ler Light Novels e Mangas
 - ✨ Acadêmia
-
-</br></br></br>
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -44,7 +41,6 @@
 
 </p>
 
-</br></br></br>
 # Contato :
 <p>
 </br>
