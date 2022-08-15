@@ -6,7 +6,7 @@
 
 # Sobre mim 💬 :
 
-### - Sou um desenvolvedor web full stack de 20 anos do Brasil.
+### - Sou um programador web full stack de 20 anos do Brasil.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/gifs/13626.gif">
 
