@@ -19,6 +19,8 @@
 - ✨ Ler Light Novels e Mangas
 - ✨ Acadêmia
 
+</br></br></br>
+
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
@@ -45,7 +47,7 @@
 <p>
 </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="assets/gifs/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="assets/gifs/email.gif">
 
 Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvida ou apenas para sair e conversar ou quiser jogar juntos, é só me mandar um ping 😉.
 
