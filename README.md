@@ -8,7 +8,7 @@
 
 ### - Sou um programador web full stack de 20 anos do Brasil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets/gifs/13626.gif">
+<img hight="350" width="450" alt="GIF" align="right" src="assets/gifs/13626.gif">
 
 ### - Estudando :
 - ✨ Desenvolvimento Back-end
@@ -39,11 +39,11 @@
 <img src="assets/svg/dev/languages/css3.svg" alt="css3" width="180" hight="50">
 <img src="assets/svg/dev/languages/js.svg" alt="js" width="180" hight="50">
 <img src="assets/svg/dev/languages/python.svg" alt="python" width="180" hight="50">
-</br>
+</br></br>
 <img src="assets/svg/dev/frameworks/react.svg" alt="react" width="140" hight="50">
 <img src="assets/svg/dev/frameworks/bootstrap.svg" alt="bootstrap"  width="140" hight="50">
 <img src="assets/svg/dev/frameworks/nodejs.svg" alt="nodejs" width="140" hight="50">
-</br>
+</br></br>
 <img src="assets/svg/dev/services/npm.svg" alt="npm" width="180" hight="50">
 <img src="assets/svg/dev/tools/docker.svg" alt="docker" width="180" hight="50">
 <img src="assets/svg/dev/tools/visualstudio.svg" alt="visualstudio" width="180" hight="50">
