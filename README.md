@@ -15,8 +15,9 @@
 - ✨ Ciência da Computação
 
 ### - Hobbies : 
+- ✨ Enigmas
+- ✨ Light Novels, Mangas, etc.
 - ✨ Games
-- ✨ Ler Light Novels e Mangas
 - ✨ Acadêmia
 
 </br>
