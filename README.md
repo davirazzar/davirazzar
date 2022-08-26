@@ -43,6 +43,7 @@
 - Node.js
 - Docker
 - Bootstrap
+- Mobile First
 - MVP/MVVM/Clean Architecture
 - CI/CD
 
