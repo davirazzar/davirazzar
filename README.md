@@ -6,15 +6,15 @@
 
 # Sobre mim 💬 :
 
-### - Sou um programador web full stack de 20 anos do Brasil 🇧🇷.
+### Sou um programador web full stack de 20 anos do Brasil 🇧🇷.
 
 <img hight="450" width="450" alt="GIF" align="right" src="assets/gifs/13626.gif">
 
-### - Estudando :
+## Estudando :
 
 - ✨ phyton
 
-### - Hobbies : 
+## Hobbies : 
 
 - ✨ Enigmas
 - ✨ Light Novels, Mangas, etc.
