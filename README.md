@@ -34,21 +34,26 @@
 # Habilidades :
 
 ## Stacks Primárias
-- HTML/CSS
-- JavaScript
-- TypeScript (POO)
-- React.js
-- MySQL
-- Sequelize
-- Node.js
-- Docker
-- Bootstrap
-- Mobile First
-- MVP/MVVM/Clean Architecture
-- CI/CD
+- HTML/CSS;
+- JavaScript;
+- TypeScript;
+- React.js;
+- MySQL;
+- Sequelize;
+- Node.js;
+- Docker;
+- Bootstrap;
+<!-- - Conhecimento de Design Patterns, Orientação a Objetos, Clean Code e boas práticas de programação;
+- Mobile First;
+- MVP/MVVM/Clean Architecture;
+- Integração com Api REST
+- CI/CD;
+ - Testes unitários
+- TDD -->
+
 
 ## Stacks Secundárias
-- TDD
+
 - Jest
 - Mocha chai
 
