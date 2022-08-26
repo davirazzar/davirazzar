@@ -43,10 +43,13 @@
 - Node.js
 - Docker
 - Bootstrap
+- MVP/MVVM/Clean Architecture
+- CI/CD
 
 ## Stacks Secundárias
-- Jest (TDD)
-- Mocha chai (TDD)
+- TDD
+- Jest
+- Mocha chai
 
 # Contato :
 <p>
