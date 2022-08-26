@@ -36,7 +36,7 @@
 ## Stacks Primárias
 - HTML/CSS
 - JavaScript
-- TypeScript
+- TypeScript (POO)
 - React.js
 - MySQL
 - Sequelize
@@ -45,8 +45,8 @@
 - Bootstrap
 
 ## Stacks Secundárias
-- Jest
-- Mocha chai
+- Jest (TDD)
+- Mocha chai (TDD)
 
 # Contato :
 <p>
