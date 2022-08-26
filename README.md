@@ -11,10 +11,11 @@
 <img hight="450" width="450" alt="GIF" align="right" src="assets/gifs/13626.gif">
 
 ### - Estudando :
-- ✨ Desenvolvimento Back-end
-- ✨ Ciência da Computação
+
+- ✨ phyton
 
 ### - Hobbies : 
+
 - ✨ Enigmas
 - ✨ Light Novels, Mangas, etc.
 - ✨ Games
@@ -30,27 +31,22 @@
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+# Habilidades :
 
-<p align="center">
+## Stacks Primárias
+- HTML/CSS
+- JavaScript
+- TypeScript
+- React.js
+- MySQL
+- Sequelize
+- Node.js
+- Docker
+- Bootstrap
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="assets/svg/dev/languages/html.svg" alt="html" width="180" hight="50">
-<img src="assets/svg/dev/languages/css3.svg" alt="css3" width="180" hight="50">
-<img src="assets/svg/dev/languages/js.svg" alt="js" width="180" hight="50">
-<img src="assets/svg/dev/languages/python.svg" alt="python" width="180" hight="50">
-</br></br>
-<img src="assets/svg/dev/frameworks/react.svg" alt="react" width="140" hight="50">
-<img src="assets/svg/dev/frameworks/bootstrap.svg" alt="bootstrap"  width="140" hight="50">
-<img src="assets/svg/dev/frameworks/nodejs.svg" alt="nodejs" width="140" hight="50">
-</br></br>
-<img src="assets/svg/dev/services/npm.svg" alt="npm" width="180" hight="50">
-<img src="assets/svg/dev/tools/docker.svg" alt="docker" width="180" hight="50">
-<img src="assets/svg/dev/tools/visualstudio.svg" alt="visualstudio" width="180" hight="50">
-</br>
-
-</p>
+## Stacks Secundárias
+- Jest
+- Mocha chai
 
 # Contato :
 <p>
