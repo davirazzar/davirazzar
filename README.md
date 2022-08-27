@@ -4,17 +4,17 @@
 <img hight="300" width="700" alt="GIF" align="center" src="assets/gifs/208593.gif">
 </div>
 
-# Sobre mim 💬 :
+# Sobre mim 💬:
 
-### Sou um programador web full stack de 20 anos do Brasil 🇧🇷.
+### Sou um programador web full stack de 20 anos do Brasil.
 
 <img hight="450" width="450" alt="GIF" align="right" src="assets/gifs/13626.gif">
 
-## Estudando :
+## Estudando:
 
 - ✨ phyton
 
-## Hobbies : 
+## Hobbies: 
 
 - ✨ Enigmas
 - ✨ Light Novels, Mangas, etc.
@@ -31,9 +31,10 @@
 </br>
 </br>
 
-# Habilidades :
+# Habilidades:
 
 ## Stacks Primárias
+
 - HTML/CSS;
 - JavaScript;
 - TypeScript;
@@ -57,10 +58,8 @@
 - Jest
 - Mocha chai
 
-# Contato :
+# Contato:
 <p>
-</br>
-
  <img hight="320" width="450" align="right" alt="GIF" src="assets/gifs/email.gif">
 
 Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvida ou apenas para sair e conversar ou quiser jogar juntos, é só me mandar um ping 😉.
@@ -81,7 +80,7 @@ Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvi
 </br></br></br>
 </br></br></br>
 </br>
-
+*************
 <p align="center" >  
   <a href="https://github.com/datavinny/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=radical"/>
