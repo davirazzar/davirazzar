@@ -36,15 +36,15 @@
 
 ## Stacks Primárias
 
-- HTML/CSS;
-- JavaScript;
-- TypeScript;
-- React.js;
-- MySQL;
-- Sequelize;
-- Node.js;
-- Docker;
-- Bootstrap;
+- HTML/CSS
+- JavaScript
+- TypeScript
+- React.js
+- MySQL
+- Sequelize
+- Node.js
+- Docker
+- Bootstrap
 <!-- - Conhecimento de Design Patterns, Orientação a Objetos, Clean Code e boas práticas de programação;
 - Mobile First;
 - MVP/MVVM/Clean Architecture;
