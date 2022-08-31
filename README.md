@@ -58,6 +58,8 @@
 
 - Jest
 - Mocha chai
+- Heroku
+- Supabase
 
 # Contato:
 <p>
