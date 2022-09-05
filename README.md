@@ -75,7 +75,7 @@ Se você quiser entrar em contato comigo sobre qualquer coisa, seja alguma dúvi
    <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
  </a>
  
- <a href="https://steamcommunity.com/id/acerplayers/">
+ <a href="https://steamcommunity.com/id/marrastral/">
    <img align="left" alt="Steam" width="150" hight="100" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
  </a>
 </p>
