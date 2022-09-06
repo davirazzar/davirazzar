@@ -6,7 +6,7 @@
 
 # Sobre mim 💬:
 
-### Sou um programador web full stack de 20 anos do Brasil.
+### Tenho 20 anos, sou desenvolvedor backend, de contagem minas gerais.
 
 <img hight="450" width="450" alt="GIF" align="right" src="assets/gifs/13626.gif">
 
