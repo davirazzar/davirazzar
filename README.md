@@ -45,13 +45,15 @@
 - Node.js
 - Docker
 - Bootstrap
+- Joi
 <!-- - Conhecimento de Design Patterns, Orientação a Objetos, Clean Code e boas práticas de programação;
 - Mobile First;
 - MVP/MVVM/Clean Architecture;
 - Integração com Api REST
 - CI/CD;
  - Testes unitários
-- TDD -->
+- TDD 
+- ORM, ODM -->
 
 
 ## Stacks Secundárias
