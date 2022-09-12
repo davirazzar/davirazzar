@@ -13,6 +13,7 @@
 ## Estudando:
 
 - ✨ MongoDB
+- ✨ Zod
 - ✨ phyton
 
 ## Hobbies: 
