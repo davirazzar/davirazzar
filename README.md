@@ -22,6 +22,7 @@
 - ✨ Light Novels, Mangas, etc.
 - ✨ Games
 - ✨ Acadêmia
+- ✨ Jiu Jitsu
 
 </br>
 </br>
