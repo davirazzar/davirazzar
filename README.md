@@ -1,4 +1,4 @@
-# Olá 👋
+# Oi, sou o Davi Freitas!!
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/gifs/208593.gif">
@@ -6,7 +6,7 @@
 
 # Sobre mim 💬:
 
-### Tenho 20 anos, sou desenvolvedor backend, de contagem minas gerais.
+### Tenho 20 anos, sou desenvolvedor de software, de contagem minas gerais.
 
 <img hight="450" width="450" alt="GIF" align="right" src="assets/gifs/13626.gif">
 
