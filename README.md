@@ -13,8 +13,9 @@
 ## Estudando:
 
 - ✨ MongoDB
+- ✨ Mongoose
 - ✨ Zod
-- ✨ phyton
+- ✨ Phyton
 
 ## Hobbies: 
 
@@ -42,7 +43,7 @@
 - JavaScript
 - TypeScript
 - React.js
-- MySQL
+- MySQL 
 - Sequelize
 - Node.js
 - Docker
