@@ -12,9 +12,6 @@
 
 ## Estudando:
 
-- ✨ MongoDB
-- ✨ Mongoose
-- ✨ Zod
 - ✨ Phyton
 
 ## Hobbies: 
@@ -40,29 +37,36 @@
 ## Stacks Primárias
 
 - HTML/CSS
-- JavaScript
+- JavaScript 
 - TypeScript
 - React.js
-- MySQL 
-- Sequelize
 - Node.js
+- Express.js
 - Docker
 - Bootstrap
+- MySQL 
+- Sequelize
+- MongoDB 
+- Mongoose
 - Joi
-<!-- - Conhecimento de Design Patterns, Orientação a Objetos, Clean Code e boas práticas de programação;
-- Mobile First;
-- MVP/MVVM/Clean Architecture;
+- Zod
+<!-- 
+- Conhecimento de Design Patterns
+- Orientação a Objetos
+ - Clean Code
+- Mobile First
+- MVP/MVVM/Clean Architecture
 - Integração com Api REST
-- CI/CD;
- - Testes unitários
+- CI/CD
+- Testes unitários
 - TDD 
-- ORM, ODM -->
-
+- ORM 
+- ODM -->
 
 ## Stacks Secundárias
 
 - Jest
-- Mocha chai
+- Mocha-Chai
 - Heroku
 - Supabase
 
@@ -70,7 +74,7 @@
 <p>
  <img hight="320" width="450" align="right" alt="GIF" src="assets/gifs/email.gif">
 
-Se você quiser entrar em contato comigo, seja alguma dúvida ou apenas para sair e conversar ou quiser jogar juntos, é só me mandar um ping 😉.
+Se você quiser entrar em contato comigo, é só me mandar um ping 😉.
 
  <a href="mailto:df828316@gmail.com">
   <img align="left" alt="Gmail" width="150" hight="100" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
