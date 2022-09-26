@@ -28,11 +28,11 @@
 
 <hr/>
 
-</div align="center">
-<img hight="300" width="600" alt="GIF" align="center" src="https://camo.githubusercontent.com/7e2ceb92a082a0dfdfc070cf45f9921d0a5f24c9afef1ba14e9dd60464bc818e/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313539353333313034353738382f3744546335414b61772e6769663f6175746f3d666f726d61742c636f6d7072657373266769662d713d363026666f726d61743d7765626d">
+</div align="right">
+<img hight="230" width="375px" alt="GIF" align="right" src="https://camo.githubusercontent.com/7e2ceb92a082a0dfdfc070cf45f9921d0a5f24c9afef1ba14e9dd60464bc818e/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313539353333313034353738382f3744546335414b61772e6769663f6175746f3d666f726d61742c636f6d7072657373266769662d713d363026666f726d61743d7765626d">
 </div>
 
-<div align="center">
+<div align="left">
   <h1>Skills:</h1>
     <table>
     <tr>
@@ -40,8 +40,7 @@
       <th>Frontend</th>
       <th>Backend</th>
       <th>Tests</th>
-      <th>Versioning & Deploy</th>
-      <th>Business Tools</th>
+      <th>Others</th>
     </tr>
     <tr>
       <td>
@@ -67,10 +66,7 @@
       <td>
          <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
          <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-         <img align="center" alt="Heroku" height="40" width="40" src="https://www.coddletech.com/sites/default/files/heroku-logo.png"></td>
       <td>
-         <img align="center" alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-         <img align="center" alt="Trello" width="70" src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png"></td>
     </tr>
   </table>        
 </div> 
@@ -78,7 +74,7 @@
 <hr/>
 
 <div align="right">
- <img hight="320" width="450" align="right" alt="GIF" src="assets/gifs/email.gif">
+ <img hight="230" width="375px" align="right" alt="GIF" src="assets/gifs/email.gif">
 </div>
                                                                                  
 <div align="left">
