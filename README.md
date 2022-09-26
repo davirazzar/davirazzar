@@ -1,5 +1,7 @@
-# Oi, Meu nome é Davi Freitas!!
-### Tenho 20 anos, sou desenvolvedor de software, de contagem minas gerais.
+<h1>Oi, Meu nome é Davi Freitas!!</h1>
+</h3> Tenho 20 anos, sou desenvolvedor de software, de contagem minas gerais.</h3>
+
+<br>
 
 <div align="center">
 <img hight="300" width="600" alt="GIF" align="center" src="assets/gifs/208593.gif">
@@ -13,7 +15,7 @@
 
 <div align="left">
  
-## Estudando:
+  <h1>Estudando:</h1>
 
 - ✨ Phyton
 
@@ -35,7 +37,7 @@
 
 <div align="left">
 
-# Skills:
+  <h1>Skills:</h1>
 
    <div style="display: inline_block">
      <br>
@@ -48,16 +50,16 @@
        <img align="center" alt="Docker" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
        <img align="center" alt="VS Code" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
        <img align="center" alt="Git" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-     <h1>Frontend</h1>
+     <h3>Frontend</h3>
      <img align="center" alt="React" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
      <img align="center" alt="Redux" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
      <img align="center alt="Boostrap" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-     <h1>Backend</h1>
+     <h3>Backend</h3>
        <img align="center" alt="Express" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
        <img align="center" alt="MySQL" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
        <img align="center" alt="Sequelize" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>
        <img align="center" alt="MongoDB" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-     <h1>Tests</h1>
+     <h3>Tests</h3>
      <img align="center" alt="Jest" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
      <img align="center" alt="Mocha" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
      <img align="center" alt="Chai" height="80" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">
@@ -73,7 +75,7 @@
                                                                                  
 <div align="left">
 
-# Contato:
+<h1>Contato:</h1>
 
 <p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
    <div style="display: inline_block">
