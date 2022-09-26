@@ -48,16 +48,16 @@
        <img align="center" alt="Docker" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
        <img align="center" alt="VS Code" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
        <img align="center" alt="Git" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-     <p>Frontend</p>
+     <h1>Frontend</h1>
      <img align="center" alt="React" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
      <img align="center" alt="Redux" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
      <img align="center alt="Boostrap" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-     <p>Backend</p>
+     <h1>Backend</h1>
        <img align="center" alt="Express" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
        <img align="center" alt="MySQL" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
        <img align="center" alt="Sequelize" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>
        <img align="center" alt="MongoDB" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-     <p>Tests</p>
+     <h1>Tests</h1>
      <img align="center" alt="Jest" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
      <img align="center" alt="Mocha" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
      <img align="center" alt="Chai" height="80" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">
