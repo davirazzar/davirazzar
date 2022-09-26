@@ -1,8 +1,6 @@
 <h1>Oi, Meu nome é Davi Freitas!!</h1>
 </h3> Tenho 20 anos, sou desenvolvedor de software, de contagem minas gerais.</h3>
 
-<br><br>
-
 <div align="center">
 <img hight="300" width="600" alt="GIF" align="center" src="assets/gifs/208593.gif">
 </div>
@@ -89,7 +87,7 @@
    </div>
 </div>
                                                                                                                                         
-</br></br></br>
+</br></br></br></br>
 
 <hr/>
 <div align="center">
