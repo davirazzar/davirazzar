@@ -14,12 +14,11 @@
 </div>
 
 <div align="left">
- 
   <h1>Estudando:</h1>
 
 - ✨ Phyton
 
-## Hobbies: 
+  <h1>Hobbies:</h1>
 
 - ✨ Enigmas
 - ✨ Light Novels, Mangas, etc.
@@ -36,7 +35,6 @@
 </div>
 
 <div align="left">
-
   <h1>Skills:</h1>
 
    <div style="display: inline_block">
@@ -74,7 +72,6 @@
 </div>
                                                                                  
 <div align="left">
-
 <h1>Contato:</h1>
 
 <p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
