@@ -1,4 +1,4 @@
-<h1>Oi, Meu nome é Davi Freitas!!</h1>
+<h1>Me chamo Davi Freitas</h1>
 </h3> Tenho 20 anos, sou desenvolvedor de software, de contagem minas gerais.</h3>
 
 <div align="center">
@@ -8,22 +8,22 @@
 <hr/>
 
 <div align="right">
-<img hight="450" width="450" alt="GIF" align="right" src="assets/gifs/13626.gif">
+<img hight="230" width="375px" alt="GIF" align="right" src="assets/gifs/13626.gif">
 </div>
 
 <div align="left">
   <h1>Estudando:</h1>
-
-- ✨ Phyton
-
+    <ul>
+      <li>✨ Phyton</li>
+    </ul>
   <h1>Hobbies:</h1>
-
-- ✨ Enigmas
-- ✨ Light Novels, Mangas, etc.
-- ✨ Games
-- ✨ Acadêmia
-- ✨ Jiu Jitsu
-
+    <ul>
+      <li>✨ Enigmas</li>
+      <li>✨ Games</li>
+      <li>✨ Jiu Jitsu</li>
+      <li>✨ Acadêmia</li>
+      <li>✨ Light Novels, Mangas, etc.</li>
+    </ul>
 </div>
 
 <hr/>
@@ -34,33 +34,45 @@
 
 <div align="left">
   <h1>Skills:</h1>
-
-   <div style="display: inline_block">
-     <br>
-      <!-- <img align="center" alt="Python" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -->
-       <img align="center" alt="TypeScript" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-       <img align="center" alt="JS" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-       <img align="center" alt="NodeJS" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-       <img align="center" alt="CSS" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-       <img align="center" alt="HTML" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-       <img align="center" alt="Docker" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-       <img align="center" alt="VS Code" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-       <img align="center" alt="Git" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-     <h3>Frontend</h3>
-     <img align="center" alt="React" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-     <img align="center" alt="Redux" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-     <img align="center alt="Boostrap" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
-     <h3>Backend</h3>
-       <img align="center" alt="Express" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-       <img align="center" alt="MySQL" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-       <img align="center" alt="Sequelize" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>
-       <img align="center" alt="MongoDB" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-     <h3>Tests</h3>
-     <img align="center" alt="Jest" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-     <img align="center" alt="Mocha" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
-     <img align="center" alt="Chai" height="80" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">
-     <img align="center" alt="Sinon" height="80"  src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67">
-   </div>          
+    <table>
+    <tr>
+      <th>Languages</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Tests</th>
+      <th>Versioning & Deploy</th>
+      <th>Business Tools</th>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+        <img align="center" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">           <img align="center" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
+      <td>
+        <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+        <img align="center" alt="Redux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+        <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center alt="Boostrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></td>
+      <td>
+        <img align="center" alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+        <img align="center" alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+        <img align="center" alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+        <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+        <img align="center" alt="Sequelize" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/></td>
+      <td>
+        <img align="center" alt="Sinon" height="40"  src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67">
+        <img align="center" alt="Chai" height="40" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">
+        <img align="center" alt="Mocha" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+        <img align="center" alt="Jest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></td>
+      <td>
+         <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+         <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+         <img align="center" alt="Heroku" height="40" width="40" src="https://www.coddletech.com/sites/default/files/heroku-logo.png"></td>
+      <td>
+         <img align="center" alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+         <img align="center" alt="Trello" width="70" src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png"></td>
+    </tr>
+  </table>        
 </div> 
 
 <hr/>
@@ -70,19 +82,18 @@
 </div>
                                                                                  
 <div align="left">
-<h1>Contato:</h1>
-
-<p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
+  <h1>Contato:</h1>
+  <p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
    <div align="right">
-    <a href="https://www.linkedin.com/in/davifreitass/">
-      <img align="left" alt="Linkedin" width="200" hight="200" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
+    <a href="https://www.linkedin.com/in/davifreitass/" target="_blank">
+      <img align="left" alt="Linkedin" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
     </a>
-    <a href="mailto:df828316@gmail.com">
-     <img align="left" alt="Gmail" width="200" hight="200" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
+    <a href="mailto:df828316@gmail.com" target="_blank">
+     <img align="left" alt="Gmail" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
     </a> 
     </br></br></br>
-    <a href="https://steamcommunity.com/id/davirazzar/">
-      <img align="left" alt="Steam" width="200" hight="200" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
+    <a href="https://steamcommunity.com/id/davirazzar/" target="_blank">
+      <img align="left" alt="Steam" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
     </a>
    </div>
 </div>
@@ -91,10 +102,8 @@
 
 <hr/>
 <div align="center">
-<p align="center" >  
-  <a href="https://github.com/datavinny/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/datavinny/github-readme-stats" target="_blank"> 
+    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=radical"/>
   </a>
- </p>
 </div>
 <hr/>
