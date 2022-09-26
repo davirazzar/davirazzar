@@ -73,16 +73,16 @@
 <h1>Contato:</h1>
 
 <p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
-   <div style="justify-content: space-evenly">
+   <div style="justify-content: stretch">
     <a href="https://www.linkedin.com/in/davifreitass/">
-      <img align="left" alt="Linkedin" width="200" hight="300" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
+      <img align="left" alt="Linkedin" width="200" hight="200" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
     </a>
     <a href="mailto:df828316@gmail.com">
-     <img align="left" alt="Gmail" width="200" hight="300" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
+     <img align="left" alt="Gmail" width="200" hight="200" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
     </a> 
     </br></br></br>
     <a href="https://steamcommunity.com/id/davirazzar/">
-      <img align="left" alt="Steam" width="200" hight="300" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
+      <img align="left" alt="Steam" width="200" hight="200" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
     </a>
    </div>
 </div>
