@@ -73,7 +73,7 @@
 <h1>Contato:</h1>
 
 <p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
-   <div style="display: inline_block">
+   <div style="justify-content: space-evenly">
     <a href="https://www.linkedin.com/in/davifreitass/">
       <img align="left" alt="Linkedin" width="200" hight="300" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
     </a>
