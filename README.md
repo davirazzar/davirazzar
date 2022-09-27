@@ -91,7 +91,6 @@
     <a href="mailto:df828316@gmail.com" target="_blank">
      <img align="left" alt="Gmail" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
     </a> 
-    </br></br></br>
     <a href="https://steamcommunity.com/id/davirazzar/" target="_blank">
       <img align="left" alt="Steam" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
     </a>
