@@ -66,6 +66,7 @@
         <img align="center" alt="Chai" height="40" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">
         <img align="center" alt="Mocha" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
         <img align="center" alt="Jest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+        <img align="center" alt="Pytest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg">
 </td>
       <td>
          <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
