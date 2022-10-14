@@ -102,9 +102,7 @@
   <a href="https://github.com/datavinny/github-readme-stats" target="_blank"> 
     <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=vision-friendly-dark"/>
   </a>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datavinny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![](https://komarev.com/ghpvc/?username=datavinny&color=green&style=for-the-badge)
+
+  ![](https://komarev.com/ghpvc/?username=datavinny&color=white&style=for-the-badge)
 </div>
 <hr/>
