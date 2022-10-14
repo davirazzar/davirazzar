@@ -103,6 +103,6 @@
     <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=vision-friendly-dark"/>
   </a>
 
-  ![](https://komarev.com/ghpvc/?username=datavinny&color=white&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=datavinny&style=for-the-badge)
 </div>
 <hr/>
