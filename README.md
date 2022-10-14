@@ -100,10 +100,10 @@
 <hr/>
 <div align="center">
   <a href="https://github.com/datavinny/github-readme-stats" target="_blank"> 
-    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=radical"/>
+    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=vision-friendly-dark"/>
   </a>
   
   
-  ![](https://komarev.com/ghpvc/?username=datavinny&color=red&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=datavinny&color=green&style=for-the-badge)
 </div>
 <hr/>
