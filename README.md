@@ -2,7 +2,7 @@
 </h3> Tenho 20 anos, sou desenvolvedor de software, de contagem minas gerais.</h3>
 
 <div align="center">
-<img hight="500" width="375px" alt="GIF" align="center" src="assets/gifs/208593.gif">
+<img hight="230" width="375px" alt="GIF" align="center" src="assets/gifs/208593.gif">
 </div>
   
 <hr/>
