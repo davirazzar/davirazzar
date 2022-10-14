@@ -1,5 +1,5 @@
 <h1>Me chamo Davi Freitas</h1>
-</h3> Tenho 20 anos, sou desenvolvedor de software, de contagem minas gerais.</h3>
+</h3> Tenho 20 anos, sou de BH e desenvolvedor de software.</h3>
 
 <div align="center">
 <img hight="230" width="375px" alt="GIF" align="center" src="assets/gifs/208593.gif">
@@ -102,5 +102,6 @@
   <a href="https://github.com/datavinny/github-readme-stats" target="_blank"> 
     <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=radical"/>
   </a>
+  ![](https://komarev.com/ghpvc/?username=datavinny&color=red&style=for-the-badge)
 </div>
 <hr/>
