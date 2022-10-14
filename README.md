@@ -16,7 +16,7 @@
     <ul>
       <li>✨ Phyton</li>
       <li>✨ Fundamentos da Ciência da Computação</li>
-      <li>✨ Língua Japonesa(0 meses atualmente)</li>
+      <li>✨ Língua Japonesa (0 meses atualmente)</li>
     </ul>
   <h1>Hobbies:</h1>
     <ul>
