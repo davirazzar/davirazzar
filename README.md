@@ -85,13 +85,13 @@
   <p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
    <div align="center">
     <a href="https://www.linkedin.com/in/davifreitass/" target="_blank">
-      <img align="left" alt="Linkedin" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
+      <img align="left" alt="Linkedin" width="150px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
     </a>
     <a href="mailto:df828316@gmail.com" target="_blank">
-     <img align="left" alt="Gmail" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
+     <img align="left" alt="Gmail" width="150px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
     </a> 
     <a href="https://steamcommunity.com/id/davirazzar/" target="_blank">
-      <img align="left" alt="Steam" width="100px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
+      <img align="left" alt="Steam" width="150px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
     </a>
    </div>
 </div>
