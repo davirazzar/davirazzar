@@ -15,6 +15,7 @@
   <h1>Estudando:</h1>
     <ul>
       <li>✨ Phyton</li>
+      <li>✨ Fundamentos da Ciência da Computação</li>
     </ul>
   <h1>Hobbies:</h1>
     <ul>
