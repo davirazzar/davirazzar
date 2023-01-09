@@ -14,8 +14,7 @@
 <div align="left">
   <h1>Estudando:</h1>
     <ul>
-      <li>✨ Phyton</li>
-      <li>✨ Ciência da Computação</li>
+      <li>✨ </li>
     </ul>
   <h1>Hobbies:</h1>
     <ul>
