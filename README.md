@@ -1,5 +1,5 @@
-<h1>Me chamo Davi Freitas</h1>
-</h3> Tenho 20 anos, sou de BH e desenvolvedor de software.</h3>
+<h1>My name is Davi</h1>
+</h3> I'm 20 years old, from Brazil and a software developer.</h3>
 
 <div align="center">
 <img hight="230" width="375px" alt="GIF" align="center" src="assets/gifs/208593.gif">
@@ -12,17 +12,16 @@
 </div>
 
 <div align="left">
-  <h1>Estudando:</h1>
+  <h1>Studing:</h1>
     <ul>
-      <li>✨ </li>
+      <li>✨ Japanese</li>
     </ul>
   <h1>Hobbies:</h1>
     <ul>
-      <li>✨ Enigmas</li>
+      <li>✨ Enigmas/Puzzles</li>
       <li>✨ Games</li>
-      <li>✨ Jiu Jitsu</li>
-      <li>✨ Acadêmia</li>
-      <li>✨ Light Novels, Mangas, etc.</li>
+      <li>✨ Gym</li>
+      <li>✨ Mangas, Light Novels, etc.</li>
     </ul>
 </div>
 
@@ -80,8 +79,8 @@
 </div>
                                                                                  
 <div align="left">
-  <h1>Contato:</h1>
-  <p>Se você quiser entrar em contato comigo, é só me mandar um ping 😉.</p>
+  <h1>Contact:</h1>
+  <p>If you want to contact me, just ping me 😉.</p>
    <div align="center">
     <a href="https://www.linkedin.com/in/davifreitass/" target="_blank">
       <img align="left" alt="Linkedin" width="180px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
@@ -104,6 +103,6 @@
     <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datavinny&&show_icons=true&theme=vision-friendly-dark"/>
   </a>
 
-  ![](https://komarev.com/ghpvc/?username=datavinny&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=davirazzar&style=for-the-badge)
 </div>
 <hr/>
