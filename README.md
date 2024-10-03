@@ -1,5 +1,5 @@
 <h1>My name is Davi</h1>
-</h3> I'm 20 years old, from Brazil and a software developer.</h3>
+</h3> I'm 20 years old software developer from Brazil.</h3>
 
 <div align="center">
 <img hight="230" width="375px" alt="GIF" align="center" src="assets/gifs/208593.gif">
@@ -83,14 +83,14 @@
   <p>If you want to contact me, just ping me 😉.</p>
    <div align="center">
     <a href="https://www.linkedin.com/in/davifreitass/" target="_blank">
-      <img align="left" alt="Linkedin" width="180px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/linkedin.png" />
+      <img align="left" alt="Linkedin" width="180px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/linkedin.png" />
     </a>
     <a href="mailto:df828316@gmail.com" target="_blank">
-     <img align="left" alt="Gmail" width="150px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/gmail.png" />
+     <img align="left" alt="Gmail" width="150px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/gmail.png" />
     </a> 
 </br></br></br>
     <a href="https://steamcommunity.com/id/davirazzar/" target="_blank">
-      <img align="left" alt="Steam" width="150px" src="https://github.com/datavinny/datavinny/blob/master/assets/icons/steam.png" />
+      <img align="left" alt="Steam" width="150px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/steam.png" />
     </a>
    </div>
 </div>
@@ -99,8 +99,8 @@
 
 <hr/>
 <div align="center">
-  <a href="https://github.com/datavinny/github-readme-stats" target="_blank"> 
-    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=datarazzar&&show_icons=true&theme=vision-friendly-dark"/>
+  <a href="https://github.com/davirazzar/github-readme-stats" target="_blank"> 
+    <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=davirazzar&&show_icons=true&theme=vision-friendly-dark"/>
   </a>
 
   ![](https://komarev.com/ghpvc/?username=davirazzar&style=for-the-badge)
