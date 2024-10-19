@@ -18,7 +18,7 @@
     </ul>
   <h1>Hobbies:</h1>
     <ul>
-      <li>✨ Enigmas/Puzzles</li>
+      <li>✨ Enigmas</li>
       <li>✨ Games</li>
       <li>✨ Gym</li>
       <li>✨ Mangas, Light Novels, etc.</li>
@@ -80,7 +80,6 @@
                                                                                  
 <div align="left">
   <h1>Contact:</h1>
-  <p>If you want to contact me, just ping me 😉.</p>
    <div align="center">
     <a href="https://www.linkedin.com/in/davifreitass/" target="_blank">
       <img align="left" alt="Linkedin" width="180px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/linkedin.png" />
