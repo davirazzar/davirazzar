@@ -1,5 +1,5 @@
 <h1>My name is Davi</h1>
-</h3> I'm 20 years old software developer from Brazil.</h3>
+</h3> I'm 20 years old software developer.</h3>
 
 <div align="center">
 <img hight="230" width="375px" alt="GIF" align="center" src="assets/gifs/208593.gif">
@@ -7,22 +7,24 @@
   
 <hr/>
 
-<div align="right">
-<img hight="230" width="375px" alt="GIF" align="right" src="assets/gifs/13626.gif">
-</div>
-
-<div align="left">
-  <h1>Studing:</h1>
-    <ul>
-      <li>✨ Japanese</li>
-    </ul>
-  <h1>Hobbies:</h1>
-    <ul>
-      <li>✨ Enigmas</li>
-      <li>✨ Games</li>
-      <li>✨ Gym</li>
-      <li>✨ Mangas, Light Novels, etc.</li>
-    </ul>
+<div>
+  <div align="right">
+  <img hight="230" width="375px" alt="GIF" align="right" src="assets/gifs/13626.gif">
+  </div>
+  
+  <div align="left">
+    <h1>Studing:</h1>
+      <ul>
+        <li>✨ Japanese</li>
+      </ul>
+    <h1>Hobbies:</h1>
+      <ul>
+        <li>✨ Enigmas</li>
+        <li>✨ Games</li>
+        <li>✨ Gym</li>
+        <li>✨ Mangas, Light Novels, etc.</li>
+      </ul>
+  </div>
 </div>
 
 </br></br></br>
@@ -30,8 +32,6 @@
 <div align="left">
   <h1>Skills:</h1>
   <div align="center">
-  <img hight="230" width="375px" alt="GIF" align="center" src="https://camo.githubusercontent.com/7e2ceb92a082a0dfdfc070cf45f9921d0a5f24c9afef1ba14e9dd60464bc818e/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313539353333313034353738382f3744546335414b61772e6769663f6175746f3d666f726d61742c636f6d7072657373266769662d713d363026666f726d61743d7765626d">
-  </div>
     <table>
     <tr>
       <th>Languages</th>
@@ -43,33 +43,37 @@
     <tr>
       <td>
         <img align="left" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-        <img align="left" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">           <img align="left" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
+        <img align="left" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">           
+        <img align="left" alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      </td>
       <td>
         <img align="left" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
         <img align="left" alt="Redux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
         <img align="left" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="left" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="left alt="Boostrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></td>
+        <img align="left" alt="Boostrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+      </td>
       <td>
         <img align="left" alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
         <img align="left" alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
         <img align="left" alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
         <img align="left" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
         <img align="left" alt="Sequelize" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>
-</td>
+      </td>
       <td>
         <img align="center" alt="Sinon" height="40"  src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67">
         <img align="center" alt="Chai" height="40" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4">
         <img align="center" alt="Mocha" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
         <img align="center" alt="Jest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
         <img align="center" alt="Pytest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg">
-</td>
+      </td>
       <td>
          <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
          <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-</td>
+      </td>
     </tr>
-  </table>        
+  </table> 
+  </div>  
 </div> 
 
 <hr/>
