@@ -1,36 +1,16 @@
 <div>
   <h1>My name is Davi</h1>
   </h3> I'm 20 years old software developer.</h3>
-  
+<!---
   <div align="center">
   <img hight="230" width="600px" alt="GIF" align="center" src="assets/gifs/208593.gif">
   </div>
 </div>
-
+-->
 <hr/>
-
-<div>
-  <div align="right">
-  <img hight="230" width="375px" alt="GIF" align="right" src="assets/gifs/13626.gif">
-  </div>
-
-  <div align="center">
-      <div align="left">
-        <h1>Studing:</h1>
-          <ul>
-            <li>✨ Japanese</li>
-          </ul>
-        <h1>Hobbies:</h1>
-          <ul>
-            <li>✨ Enigmas</li>
-            <li>✨ Games</li>
-            <li>✨ Gym</li>
-            <li>✨ Mangas, Light Novels, etc.</li>
-          </ul>
-      </div>
-      </br></br></br>
-      <hr/>
-      <h1>Skills:</h1>
+     
+<div align="center">
+        <h3>Skills:</h3>
       <table>
       <tr>
         <th>Languages</th>
@@ -72,29 +52,54 @@
         </td>
       </tr>
     </table> 
-  </div>   
 </div>
-  
+
 <hr/>
+
+<!---
+<div>
+  <div align="right">
+    <img hight="230" width="375px" alt="GIF" align="right" src="assets/gifs/13626.gif">
+  </div>
+  <div align="left">
+  <h3>Studing:</h3>
+       <ul>
+          <li>✨ Japanese</li>
+        </ul>
+    <h3>Hobbies:</h3>
+       <ul>
+        <li>✨ Enigmas</li>
+         <li>✨ Games</li>
+        <li>✨ Gym</li>
+        <li>✨ Mangas, Light Novels, etc.</li>
+      </ul>  
+  </div>
+</div>
+
+</br></br></br></br></br>
+
+<hr/>
+-->
 
 <div align="right">
  <img hight="230" width="375px" align="right" alt="GIF" src="assets/gifs/email.gif">
 </div>
                                                                                  
-<div align="left">
-  <h1>Contact:</h1>
+<div align="center">
+  <h3>Contact:</h3>
 
   <a href="https://www.linkedin.com/in/davifreitass/" target="_blank">
-      <img align="center" alt="Linkedin" width="200px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/linkedin.png" />
+      <img align="center" alt="Linkedin" width="170px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/linkedin.png" />
   </a>
     <a href="mailto:df828316@gmail.com" target="_blank">
-     <img align="center" alt="Gmail" width="200px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/gmail.png" />
+     <img align="center" alt="Gmail" width="150px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/gmail.png" />
     </a> 
     <a href="https://steamcommunity.com/id/davirazzar/" target="_blank">
-      <img align="center" alt="Steam" width="200px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/steam.png" />
+      <img align="center" alt="Steam" width="150px" src="https://github.com/davirazzar/davirazzar/blob/master/assets/icons/steam.png" />
     </a>
 </div>
-                                                                                                                                        
+
+<!---
 </br></br></br></br></br>
 
 <hr/>
@@ -105,4 +110,4 @@
 
   ![](https://komarev.com/ghpvc/?username=davirazzar&style=for-the-badge)
 </div>
-<hr/>
+-->                                                                                                                                    
